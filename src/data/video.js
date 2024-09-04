@@ -6,6 +6,7 @@ const video = {
   createdAt: "Oct 26, 2018",
   upvotes: 9210,
   downvotes: 185,
+  description: "An in-depth look at React's current state and its future.", // Add a description
   comments: [
     {
       id: 1,
